@@ -19,4 +19,4 @@ I built this tool to quickly generate a cascading network of WireGuard servers t
 
 ## Usage:
 
-Open `index.html` or https://rdke.dev/wpcompose in a modern browser
+Open `index.html` or https://rdke.dev/wgcompose in a modern browser
